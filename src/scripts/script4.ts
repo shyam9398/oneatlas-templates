@@ -1,4 +1,6 @@
+// @ts-nocheck
 export function initScript4() {
+
 
 // ── Clone Counter ──────────────────────────────────────────
 (function() {

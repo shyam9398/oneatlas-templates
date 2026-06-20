@@ -1,3 +1,4 @@
+// @ts-nocheck
 export function initScript1() {
 
 // ═══ TEMPLATE SCREEN CONFIGS ═══

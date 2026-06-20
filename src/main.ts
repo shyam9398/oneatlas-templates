@@ -11,7 +11,8 @@ import "./styles/workspace.css";
 import "./styles/chatbot.css";
 import "./styles/dashboard.css";
 import "./styles/responsive.css";
-import { TemplateRegistry, ScreenRegistry, slugify, ScreenConfig } from './scripts/registry.ts';
+import { TemplateRegistry, ScreenRegistry, slugify } from './scripts/registry.ts';
+import type { ScreenConfig } from './scripts/registry.ts';
 
 // Initialize extracted scripts
 initScript0();
